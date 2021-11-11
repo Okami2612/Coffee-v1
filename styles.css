@@ -164,7 +164,7 @@ body.dark-theme{
 }
 /*=============== Theme Button ===============*/
 .change-theme{
-  color: var(--title-color);
+  color: var(--first-color);
   font-size: 1.15rem;
   cursor: pointer;
 }
@@ -544,7 +544,7 @@ body.dark-theme{
 }
 .footer_logo i{
   font-size: 1.15rem;
-  color: var(--first-color);
+  color: #fff;
 }
 .footer_logo:hover{
   color: var(--first-color);
