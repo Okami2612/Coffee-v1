@@ -289,7 +289,7 @@ body.dark-theme{
   left: 0;
   width: 50%;
   height: 2px;
-  background-color: var(--first-color);
+  background-color: #fff;
 }
 
 /*=============== Home ===============*/
